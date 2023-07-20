@@ -1,0 +1,477 @@
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\CLQ.exe
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\CLQ.pdb
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\CLQ.xml
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\BKUtils.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\SpatialIndexing.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\MapWindow.Interfaces.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\MapWinGeoProc.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\MapWinInterfaces.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\MapWinUtility.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\Interop.TKTAUDEMLib.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\SpatialIndexing.pdb
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\SpatialIndexing.xml
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\BKUtils.pdb
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\BKUtils.xml
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Debug\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Debug\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Debug\CLQ.vbproj.ResolveComReference.cache
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Debug\CLQ.frmCLQ.resources
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Debug\CLQ.Resources.resources
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Debug\CLQ.vbproj.GenerateResource.Cache
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Debug\CLQ.exe
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Debug\CLQ.xml
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Debug\CLQ.pdb
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\CLQ.application
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Debug\MapWinGIS.ocx
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Debug\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Debug\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Debug\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Debug\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Debug\CLQ.vbproj.ResolveComReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Debug\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Debug\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Debug\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Debug\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Debug\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Debug\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Debug\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Debug\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Debug\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Debug\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Debug\CLQ.frmCLQ.resources
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Debug\CLQ.Resources.resources
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Debug\CLQ.vbproj.GenerateResource.Cache
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Debug\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Debug\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Debug\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Debug\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Debug\CLQ.vbproj.ResolveComReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Debug\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Debug\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Debug\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Debug\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Debug\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Debug\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Debug\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Debug\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Debug\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Debug\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Debug\CLQ.frmCLQ.resources
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Debug\CLQ.Resources.resources
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Debug\CLQ.vbproj.GenerateResource.Cache
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Debug\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Debug\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Debug\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Debug\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Debug\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Debug\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Debug\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Debug\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Debug\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Debug\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Debug\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Debug\CLQ.vbproj.ResolveComReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Debug\CLQ.frmCLQ.resources
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Debug\CLQ.Resources.resources
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Debug\CLQ.vbproj.GenerateResource.Cache
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Debug\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Debug\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Debug\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Debug\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Debug\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\CLQ.exe.config
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Debug\CLQ.vbproj.ResolveComReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Debug\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Debug\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Debug\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Analysis.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Controls.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Data.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Symbology.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Topology.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Projections.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Extensions.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\Ionic.Zip.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Serialization.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Analysis.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Controls.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Data.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Data.xml
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Symbology.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Topology.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Topology.xml
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Projections.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Extensions.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Serialization.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Serialization.xml
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Controls.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Data.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Debug\CLQ.frmCLQ.resources
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Debug\CLQ.Resources.resources
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Debug\CLQ.collapsablePanel.resources
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Debug\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Debug\CLQ.application
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.vbproj.ResolveComReference.cache
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.dlgTorusDefinition.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.frmControl.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.frmLicense.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.frmOutlineOptions.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.frmTable.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.frmCLQ.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.frmMap.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.Resources.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.SpatialIndexTestWindow.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.vbproj.GenerateResource.Cache
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.vbprojResolveAssemblyReference.cache
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.exe
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\CLQ.exe.config
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\CLQ.exe.manifest
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\CLQ.application
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\CLQ.exe
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\CLQ.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\CLQ.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Analysis.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Mono.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Topology.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Extensions.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Analysis.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Analysis.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Mono.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Mono.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Topology.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Topology.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Extensions.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Extensions.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.pdb
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Controls.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Data.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\de\DotSpatial.Projections.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\el\DotSpatial.Projections.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\th\DotSpatial.Projections.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.exe.manifest
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Debug\CLQ.application
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\CLQ.exe.config
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.vbproj.ResolveComReference.cache
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.exe
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\CLQ.exe.config
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.vbproj.ResolveComReference.cache
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.exe
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\CLQ.exe.manifest
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\CLQ.application
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\CLQ.exe
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\CLQ.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\CLQ.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Analysis.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Mono.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Topology.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Extensions.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Analysis.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Analysis.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Mono.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Mono.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Topology.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Topology.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Extensions.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Extensions.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.pdb
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.xml
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Controls.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Data.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.vbprojResolveAssemblyReference.cache
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.dlgTorusDefinition.resources
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.frmControl.resources
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.frmLicense.resources
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.frmOutlineOptions.resources
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.frmTable.resources
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.frmCLQ.resources
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.frmMap.resources
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.Resources.resources
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.SpatialIndexTestWindow.resources
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.vbproj.GenerateResource.Cache
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.exe.manifest
+C:\Users\bjkronenfeld\Dropbox\bk_software\CLQ\source code\CLQ\obj\Debug\CLQ.application
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\CLQ.exe.manifest
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\CLQ.application
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\CLQ.exe
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\CLQ.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\CLQ.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Analysis.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Mono.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Topology.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Extensions.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Analysis.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Analysis.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Mono.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Mono.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Topology.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Topology.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Extensions.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Extensions.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.pdb
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.xml
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Controls.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Data.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.vbprojResolveAssemblyReference.cache
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.dlgTorusDefinition.resources
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.frmControl.resources
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.frmLicense.resources
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.frmOutlineOptions.resources
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.frmTable.resources
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.frmCLQ.resources
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.frmMap.resources
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.Resources.resources
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.SpatialIndexTestWindow.resources
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.vbproj.GenerateResource.Cache
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.exe.manifest
+C:\Users\barry\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.application
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\CLQ.exe.config
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\CLQ.exe.manifest
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\CLQ.application
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\CLQ.exe
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\CLQ.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\CLQ.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Analysis.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Mono.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Topology.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Extensions.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Analysis.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Analysis.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Controls.dll.config
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.dll.config
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Data.Forms.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Mono.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Mono.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Topology.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Topology.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Extensions.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Extensions.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Symbology.Forms.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Modeling.Forms.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Projections.Forms.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.pdb
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\DotSpatial.Serialization.dll.config
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Controls.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Data.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\cs\DotSpatial.Projections.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\de\DotSpatial.Projections.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\el\DotSpatial.Projections.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\lt\DotSpatial.Projections.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\nl\DotSpatial.Projections.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\pt\DotSpatial.Projections.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\ro\DotSpatial.Projections.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\th\DotSpatial.Projections.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\bin\Debug\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.vbproj.AssemblyReference.cache
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.vbproj.ResolveComReference.cache
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.dlgTorusDefinition.resources
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.frmControl.resources
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.frmLicense.resources
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.frmOutlineOptions.resources
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.frmTable.resources
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.frmCLQ.resources
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.frmMap.resources
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.Resources.resources
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.SpatialIndexTestWindow.resources
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.vbproj.GenerateResource.cache
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.vbproj.CoreCompileInputs.cache
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.exe.manifest
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.application
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.vbproj.CopyComplete
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.exe
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.xml
+C:\CaGIS Board Dropbox\cantaloupe bob\BK_Software\CLQ\source code\CLQ\obj\Debug\CLQ.pdb

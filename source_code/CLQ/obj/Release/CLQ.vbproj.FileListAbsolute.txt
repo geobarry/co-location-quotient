@@ -1,0 +1,280 @@
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\CLQ.application
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\CLQ.exe
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\CLQ.pdb
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\CLQ.xml
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\BKUtils.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\SpatialIndexing.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\MapWindow.Interfaces.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\MapWinGeoProc.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\MapWinInterfaces.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\MapWinUtility.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\Interop.TKTAUDEMLib.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\SpatialIndexing.pdb
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\SpatialIndexing.xml
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\BKUtils.pdb
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\bin\Release\BKUtils.xml
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Release\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Release\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Release\CLQ.vbproj.ResolveComReference.cache
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Release\CLQ.frmCLQ.resources
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Release\CLQ.Resources.resources
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Release\CLQ.vbproj.GenerateResource.Cache
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Release\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Release\CLQ.application
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Release\CLQ.exe
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Release\CLQ.xml
+C:\Users\Barry\Documents\Programming\BK_Master\CLQ\obj\Release\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Release\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Release\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Release\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Release\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Release\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Release\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\bin\Release\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Release\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Release\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Release\CLQ.vbproj.ResolveComReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Release\CLQ.frmCLQ.resources
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Release\CLQ.Resources.resources
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Release\CLQ.vbproj.GenerateResource.Cache
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Release\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Release\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Release\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Release\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\CLQ\obj\Release\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Release\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Release\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Release\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Release\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Release\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Release\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\bin\Release\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Release\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Release\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Release\CLQ.vbproj.ResolveComReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Release\CLQ.frmCLQ.resources
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Release\CLQ.Resources.resources
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Release\CLQ.vbproj.GenerateResource.Cache
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Release\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Release\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Release\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Release\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\sparse\CLQ\obj\Release\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Release\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Release\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Release\CLQ.vbproj.ResolveComReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Release\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Release\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Release\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Release\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Release\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Release\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Release\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Release\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Release\Interop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\bin\Release\AxInterop.MapWinGIS.dll
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Release\CLQ.frmCLQ.resources
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Release\CLQ.Resources.resources
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Release\CLQ.vbproj.GenerateResource.Cache
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Release\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\sparse\source code\CLQ\obj\Release\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Release\CLQ.vbproj.ResolveComReference.cache
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Release\CLQ.frmCLQ.resources
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Release\CLQ.Resources.resources
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Release\CLQ.collapsablePanel.resources
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\CLQ.exe.config
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\CLQ.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Analysis.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Controls.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Data.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Data.Forms.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Symbology.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Symbology.Forms.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Topology.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Projections.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Extensions.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\Ionic.Zip.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Modeling.Forms.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Serialization.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Projections.Forms.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Analysis.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Controls.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Data.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Data.xml
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Data.Forms.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Symbology.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Symbology.Forms.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Topology.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Topology.xml
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Projections.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Extensions.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Modeling.Forms.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Serialization.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Serialization.xml
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\DotSpatial.Projections.Forms.pdb
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\zh-CN\DotSpatial.Controls.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\zh-CN\DotSpatial.Data.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\bin\Release\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Release\CLQ.exe.manifest
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Release\CLQ.application
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Release\CLQ.exe
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Release\CLQ.xml
+C:\Users\Barry\Documents\Programming\CLQ\LRL\source code\CLQ\obj\Release\CLQ.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\CLQ.exe.config
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\CLQ.exe.manifest
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\CLQ.application
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\CLQ.exe
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\CLQ.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\CLQ.xml
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Analysis.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Controls.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Data.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Data.Forms.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Symbology.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Symbology.Forms.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Topology.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Projections.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Extensions.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\Ionic.Zip.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Modeling.Forms.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Serialization.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Projections.Forms.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Analysis.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Controls.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Data.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Data.xml
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Data.Forms.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Symbology.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Symbology.Forms.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Topology.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Topology.xml
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Projections.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Extensions.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Modeling.Forms.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Serialization.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Serialization.xml
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\DotSpatial.Projections.Forms.pdb
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\zh-CN\DotSpatial.Controls.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\zh-CN\DotSpatial.Data.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\bin\Release\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\ResolveAssemblyReference.cache
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\CLQ.vbproj.ResolveComReference.cache
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\CLQ.frmControl.resources
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\CLQ.frmTable.resources
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\CLQ.frmCLQ.resources
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\CLQ.frmMap.resources
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\CLQ.Resources.resources
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\GenerateResource.read.1.tlog
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\GenerateResource.write.1.tlog
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\CLQ.exe.manifest
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\CLQ.application
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\CLQ.exe
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\CLQ.xml
+C:\Users\bjkronenfeld\Documents\Documents\Programming\CLQ\CLQ_Current\source code\CLQ\obj\Release\CLQ.pdb
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\CLQ.exe.config
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\CLQ.exe.manifest
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\CLQ.application
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\CLQ.exe
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\CLQ.pdb
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\CLQ.xml
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\DotSpatial.Projections.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\DotSpatial.Projections.Forms.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\DotSpatial.Serialization.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\DotSpatial.Projections.pdb
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\DotSpatial.Projections.Forms.pdb
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\DotSpatial.Serialization.pdb
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\DotSpatial.Serialization.xml
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.vbproj.ResolveComReference.cache
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.frmControl.resources
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.frmLicense.resources
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.frmTable.resources
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.frmCLQ.resources
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.frmMap.resources
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.Resources.resources
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.SpatialIndexTestWindow.resources
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.exe.manifest
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.application
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.exe
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.xml
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.pdb
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.vbproj.GenerateResource.Cache
+C:\Users\Ximing\Dropbox\BK_Software\CLQ\source code\CLQ\bin\Release\CLQ.exe.config
+C:\Users\Ximing\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.vbproj.ResolveComReference.cache
+C:\Users\Ximing\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.exe
+C:\Users\Ximing\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.xml
+C:\Users\Ximing\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.pdb
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.vbprojResolveAssemblyReference.cache
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.dlgTorusDefinition.resources
+C:\Users\bjkronenfeld\Dropbox\BK_Software\CLQ\source code\CLQ\obj\Release\CLQ.frmOutlineOptions.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\bin\Release\CLQ.exe.config
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.vbproj.ResolveComReference.cache
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.vbprojResolveAssemblyReference.cache
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.dlgTorusDefinition.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.frmControl.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.frmLicense.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.frmOutlineOptions.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.frmTable.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.frmCLQ.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.frmMap.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.Resources.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.SpatialIndexTestWindow.resources
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.vbproj.GenerateResource.Cache
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.exe
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.xml
+C:\Box Sync\programming\CLQ\source code\CLQ\obj\Release\CLQ.pdb
